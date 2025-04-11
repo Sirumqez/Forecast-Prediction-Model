@@ -43,7 +43,7 @@ After data preprocessing and feature engineering, these steps follow:
 ## Files
 
 - `WeatherModel_SereenSipan.ipynb`: Main notebook with all preprocessing, model training, and evaluation steps.
-- `Predictions_for_2022_test_set.csv`: Contains 3 columns - actual, predicted, and absolute difference values for the test set.
+- `Predictions_for_2022.csv`: Contains 3 columns - actual, predicted, and absolute difference values for the test set.
 - `NYC_Weather_2016_2022.csv`: The input data file the model was trained on.
 ---
 
